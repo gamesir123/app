@@ -1,8 +1,8 @@
 # 小鸡游戏世界
 ### 最新版下载
-[点击下载 V3.7.4](http://xjdl.vgabc.com/gsw/download/gsw_3.7.4-A128.apk)
+[点击下载 V3.7.4](https://xjdl.vgabc.com/gsw/download/gsw_3.7.4-A128.apk)
 
-[Download GameSir World V3.7.4](http://xjdl.vgabc.com/gsw/download/gsw_3.7.4-A128.apk)
+[Download GameSir World V3.7.4](https://xjdl.vgabc.com/gsw/download/gsw_3.7.4-A128.apk)
 
 ### A2激活器适用版本
 [点击下载 V3.7.3](https://xjdl.vgabc.com/gsw/download/gsw_3.7.3-A2-A128.apk)
