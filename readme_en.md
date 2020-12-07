@@ -11,7 +11,7 @@
 [V3.7.4](https://xjdl.vgabc.com/gsw/download/gsw_374-A2-A128.apk)
 
 ### Previous versions
-[V4.0.5](https://xjdl.vgabc.com/gsw/download/gsw_4.0.5-A128.apk)
+[V4.0.5](https://xjdl.vgabc.com/gsw/download/gsw_4.0.5-A128.apk)  
 [V4.0.4](https://xjdl.vgabc.com/gsw/download/gsw_4.0.4-A128.apk)  
 [V4.0.3](https://xjdl.vgabc.com/gsw/download/gsw_4.0.3-A128.apk)  
 [V4.0.2](https://xjdl.vgabc.com/gsw/download/gsw_4.0.2-A128.apk)  
