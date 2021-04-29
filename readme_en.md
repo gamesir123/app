@@ -2,6 +2,9 @@
 ### Latest version
 [Download V4.1.1](https://xjdl.vgabc.com/gsw/download/gsw_4.1.1-A128.apk)
 
+### For A3 (firmware upgrade tool to resolve Android 11 issue) 
+[V3.05](https://github.com/gamesir123/app/files/6388564/A3AdapterUpgrade.zip)  
+
 ### For A2 
 [V4.0.1](https://xjdl.vgabc.com/gsw/download/gsw_4.0.1-A128.apk)  
 [V4.0.0](https://xjdl.vgabc.com/gsw/download/gsw_A2_4.0.0-A128.apk)  
