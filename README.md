@@ -2,6 +2,9 @@
 ### 最新版下载
 [点击下载 V4.1.1](https://xjdl.vgabc.com/gsw/download/gsw_4.1.1-A128.apk)
 
+### A3激活器升级教程及工具(解决安卓11激活问题) 
+[点击下载 V3.05](https://xjdl.vgabc.com/download/A3激活器升级3.05教程.zip)  
+
 ### A2激活器适用版本 
 [点击下载 V4.0.1](https://xjdl.vgabc.com/gsw/download/gsw_4.0.1-A128.apk)  
 [点击下载 V4.0.0](https://xjdl.vgabc.com/gsw/download/gsw_A2_4.0.0-A128.apk)  
