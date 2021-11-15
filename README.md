@@ -15,8 +15,8 @@
 [点击下载 V3.7.4](https://xjdl.vgabc.com/gsw/download/gsw_374-A2-A128.apk)
 
 ### 旧版本下载
-[点击下载 V4.2.2](https://xjdl.vgabc.com/gsw/download/gsw_4.2.2-A128.apk)
-[点击下载 V4.2.0](https://xjdl.vgabc.com/gsw/download/gsw_4.2.0-A128.apk)
+[点击下载 V4.2.2](https://xjdl.vgabc.com/gsw/download/gsw_4.2.2-A128.apk)  
+[点击下载 V4.2.0](https://xjdl.vgabc.com/gsw/download/gsw_4.2.0-A128.apk)  
 [点击下载 V4.1.1](https://xjdl.vgabc.com/gsw/download/gsw_4.1.1-A128.apk)  
 [点击下载 V4.1.0](https://xjdl.vgabc.com/gsw/download/gsw_4.1.0-A128.apk)  
 [点击下载 V4.0.8](https://xjdl.vgabc.com/gsw/download/gsw_4.0.8-A128.apk)  
