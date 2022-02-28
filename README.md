@@ -1,6 +1,6 @@
 # 小鸡游戏世界
 ### 最新版下载
-[点击下载 V4.2.3](https://xjdl.vgabc.com/gsw/download/gsw_4.2.3-A128.apk)
+[点击下载 V4.2.4](https://xjdl.vgabc.com/gsw/download/gsw_4.2.4-A128.apk)
 
 
 ### A3激活器升级教程及工具(解决安卓11激活问题) 
@@ -15,6 +15,8 @@
 [点击下载 V3.7.4](https://xjdl.vgabc.com/gsw/download/gsw_374-A2-A128.apk)
 
 ### 旧版本下载
+[点击下载 V4.2.3](https://xjdl.vgabc.com/gsw/download/gsw_4.2.3-A128.apk)
+
 [点击下载 V4.2.2](https://xjdl.vgabc.com/gsw/download/gsw_4.2.2-A128.apk)  
 [点击下载 V4.2.0](https://xjdl.vgabc.com/gsw/download/gsw_4.2.0-A128.apk)  
 [点击下载 V4.1.1](https://xjdl.vgabc.com/gsw/download/gsw_4.1.1-A128.apk)  
