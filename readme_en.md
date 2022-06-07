@@ -10,6 +10,10 @@
 
 [Download V4.2.0](https://xjdl.vgabc.com/gsw/download/gsw_4.2.0-A128.apk)
 
+### For VX Adapter
+[Configuration File](https://xjdl.vgabc.com/download/VxAdapter-v1.2-2022-04-21_17_57.zip)  
+[Update File](https://xjdl.vgabc.com/download/VXAdapter-update.bin)  
+
 ### For A3 (firmware upgrade tool to resolve Android 11 issue) 
 [V3.05](https://github.com/gamesir123/app/files/6388564/A3AdapterUpgrade.zip)  
 
