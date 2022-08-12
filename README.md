@@ -1,5 +1,7 @@
 # 小鸡游戏世界
 ### 最新版下载
+[点击下载 V4.2.8](https://xjdl.vgabc.com/gsw/download/gsw_4.2.8-A128.apk)
+
 [点击下载 V4.2.6](https://xjdl.vgabc.com/gsw/download/gsw_4.2.6-A128.apk)
 
 [点击下载 V4.2.5](https://xjdl.vgabc.com/gsw/download/gsw_4.2.5-A128.apk)
