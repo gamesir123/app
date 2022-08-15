@@ -2,6 +2,7 @@
 ### 最新版下载
 [点击下载 V4.2.8](https://xjdl.vgabc.com/gsw/download/gsw_4.2.8-A128.apk)
 
+### VX AIMBOX 、VX2、VX系列产品的用户请下载4.2.6以下版本
 [点击下载 V4.2.6](https://xjdl.vgabc.com/gsw/download/gsw_4.2.6-A128.apk)
 
 [点击下载 V4.2.5](https://xjdl.vgabc.com/gsw/download/gsw_4.2.5-A128.apk)
