@@ -1,5 +1,7 @@
 # GameSir World
 ### Latest version
+[Download V4.2.9](https://xjdl.vgabc.com/gsw/download/gsw_4.2.9-A128.apk)
+
 [Download V4.2.8](https://xjdl.vgabc.com/gsw/download/gsw_4.2.8-A128.apk)
 
 ### For users of VX series products (VX/VX2 AimSwitch, VX/VX2 AimBox), please use GameSir App Version 4.2.6.
