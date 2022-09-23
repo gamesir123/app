@@ -1,4 +1,4 @@
-# GameSir World
+https://github.com/gamesir123/app/blob/99886eeaf8467750fbec24fd2a0efffb434a459e/readme_en.md# GameSir World
 ### Latest version
 [Download V4.3.0](https://xjdl.bigeyes.com/gsw/download/gsw_4.3.0-A128.apk)
 
