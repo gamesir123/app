@@ -1,5 +1,9 @@
 # GameSir World
 ### Latest version
+[Download V4.3.7](https://xjdl.bigeyes.com/gsw/download/gsw_4.3.7-A128_0921.apk)
+
+[Download V4.3.6](https://xjdl.bigeyes.com/gsw/download/gsw_4.3.6-A128_0904.apk)
+
 [Download V4.3.5](https://xjdl.bigeyes.com/gsw/download/gsw_4.3.5-A128_0614.apk)
 
 [Download V4.3.4](https://xjdl.bigeyes.com/gsw/download/gsw_4.3.4-A128.apk)
